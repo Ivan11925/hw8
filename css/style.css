@@ -1,0 +1,16 @@
+p#greycol {
+  color: grey;
+}
+h3:first-child {
+  color: pink;
+}
+
+p:nth-child(odd) {
+  color: green;
+}
+p:first-child {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
